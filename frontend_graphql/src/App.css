@@ -1,0 +1,13 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+
+button {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}

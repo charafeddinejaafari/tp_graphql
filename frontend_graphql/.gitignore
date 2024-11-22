@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# Miscellaneous
+.DS_Store
+*.class
+
+# React testing artifacts
+coverage/
+
+# Yarn
+.yarn/
+.yarnrc.yml
+
+# MacOS system files
+.DS_Store
+
+# Lock files
+yarn.lock
+package-lock.json
+
+# Temporary files
+.tmp/
